@@ -1,0 +1,41 @@
+.dog {
+	height: 200px;
+	position: absolute;
+	left: 300px;
+	top: 2px;
+}
+#limeBox {
+	height: 100px;
+	width: 100px;
+	background-color: lime;
+	font-size: 36px;
+	position: fixed;
+	right: -1px;
+}
+#redBox {
+	height: 100px;
+	width: 100px;
+	background-color: red;
+	color: white;
+	font-size: 36px;
+	position: fixed;
+	right: -1px;
+	top: 101px;
+}
+#blueBox {
+	height: 250px;
+	background-color: blue;
+	overflow: scroll;
+	color: white;
+	font-size: 24px;
+}
+#blueBox a {
+	color: white;
+	font-size: 24px;
+}
+
+
+
+
+
+
